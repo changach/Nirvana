@@ -1,0 +1,50 @@
+body{
+    width: 100%; 
+	max-width: 1024px; /* or whatever width you want */ 
+	margin-right: auto; 
+	margin-left: auto; 
+
+}
+
+.navbar{
+    padding: 8px;
+}
+
+.navbar1{
+    background-color:lightsalmon;
+}
+.navbar-brand{
+    text-align:center;
+    color: palevioletred;
+    font-family: cursive;
+    font-size: 30pt;
+    font-weight:bolder;
+}
+
+.nav-link{
+    text-align: start;
+    color:palevioletred ;
+    font-family: cursive;
+    font-size: 12pt;
+    }
+#note{
+    font-family: cursive;
+    font-style: italic;   
+    font-size: 10pt;
+    color: black;
+    text-align:right;
+}
+.content{
+    float: left;
+}
+#dep{
+    font-weight: bolder;
+    font-family: cursive;
+    text-align: center;
+}
+#about{
+    text-align: center;
+    font-family: cursive;
+
+}
+
